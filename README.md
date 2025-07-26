@@ -80,5 +80,5 @@ public abstract class ItemMakanan {
 ## Demo Proyek
 <ul>
   <li>Github: <a href="">https://github.com/Bangbang04/-UAS_PBO2_K-23-B-TIF_23552011177</a></li>
-  <li>Youtube: <a href="">Youtube</a></li>
+  <li>Youtube: <a href="">https://youtu.be/_WWS4mCiNpM?si=hRTGugqLrOU0rIN2</a></li>
 </ul>
